@@ -1,0 +1,13 @@
+{
+  "name": "emk-easy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline EMK to NCN converter",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node tests/conversion.test.cjs && node tests/ui.test.cjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

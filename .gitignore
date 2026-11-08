@@ -1,0 +1,8 @@
+node_modules/
+.test-output/
+*.emk
+*.mid
+*.lyr
+*.cur
+*.exe
+*.dll
